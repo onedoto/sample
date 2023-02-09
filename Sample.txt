@@ -47,6 +47,23 @@ Opportunities for career growth: Standard Chartered is committed to supporting t
 It's important to note that individual experiences may vary, and the things that surprise people about working as a software engineer at Standard Chartered will depend on many factors, including the specific department and location in which they work.
 
 
+-----------
+
+Standard Chartered is a global bank that places a strong emphasis on technology and innovation. The bank has a long history of investing in technology and has made significant investments in recent years to modernize its infrastructure and systems. Some of the key areas where Standard Chartered is using technology include:
+
+Digital Banking: Standard Chartered has a strong focus on providing its customers with a seamless digital banking experience and has launched several digital platforms and mobile apps that allow customers to manage their finances on the go.
+
+Artificial Intelligence (AI) and Machine Learning (ML): Standard Chartered is using AI and ML to automate many of its manual processes and improve the efficiency of its operations. The bank is also using AI to better understand customer behavior and provide more personalized experiences.
+
+Blockchain: Standard Chartered is exploring the use of blockchain technology to improve transparency and security in financial transactions.
+
+Cybersecurity: With the increasing number of cyber threats, Standard Chartered is investing in cybersecurity measures to protect its systems and customer data.
+
+Agile development: Standard Chartered is adopting agile methodologies to speed up its software development processes and deliver solutions faster.
+
+Overall, technology plays a critical role in Standard Chartered's operations and the bank is committed to using technology to improve the experiences of its customers and employees.
+
+
 
 
 
